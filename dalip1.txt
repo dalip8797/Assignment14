@@ -1,0 +1,19 @@
+class DyanamicArray
+{
+DyanmicArray(int size)
+{
+int size;
+ArrayList ar=new ArrayList(size);
+ar.add(10);
+ar.ensurecapcity(2*size);
+}
+}
+
+{
+class Derive Class
+{
+public Static void main(string [] args)
+{
+DyanmicArray obj = new DyanamicArray(10);
+}
+}
